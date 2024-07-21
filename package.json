@@ -41,7 +41,7 @@
     "globule": "^1.2.1",
     "https-proxy-agent": "^5.0.0",
     "js-yaml": "^3.13.1",
-    "json-diff": "^0.5.4",
+    "json-diff": "^0.10.0",
     "json-format": "^1.0.1",
     "lodash": "^4.17.21",
     "node-fetch": "2.6.7",
