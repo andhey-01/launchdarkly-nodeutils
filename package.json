@@ -43,7 +43,7 @@
     "js-yaml": "^3.13.1",
     "json-diff": "^0.5.4",
     "json-format": "^1.0.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "node-fetch": "2.6.7",
     "swagger-client": "^3.18.5",
     "webpack": "^5.0.0"
